@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7a898ed5e66d2cc48eccef145a684f3",
+    "revision": "51b1a724239e775483f94491b65e809c",
     "url": "/cloudyhome/index.html"
   },
   {
-    "revision": "d452f3e72cb116652d4e",
+    "revision": "9d360ec65b2a8129fa19",
     "url": "/cloudyhome/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "7630891f30aa239728bd",
+    "revision": "a773ecf1ef2e93f04e68",
     "url": "/cloudyhome/static/css/main.33830d06.chunk.css"
   },
   {
-    "revision": "d452f3e72cb116652d4e",
-    "url": "/cloudyhome/static/js/2.99111540.chunk.js"
+    "revision": "9d360ec65b2a8129fa19",
+    "url": "/cloudyhome/static/js/2.9e585a2e.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/cloudyhome/static/js/2.99111540.chunk.js.LICENSE.txt"
+    "url": "/cloudyhome/static/js/2.9e585a2e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7630891f30aa239728bd",
-    "url": "/cloudyhome/static/js/main.a4c53177.chunk.js"
+    "revision": "a773ecf1ef2e93f04e68",
+    "url": "/cloudyhome/static/js/main.7501fafd.chunk.js"
   },
   {
     "revision": "a835a11a027db0f29aa6",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "097b77494452f9352630bcf79697db4d",
     "url": "/cloudyhome/static/media/instagram_logo.097b7749.png"
+  },
+  {
+    "revision": "fd5a6f3b552bff01fada0ffbac7b1d4d",
+    "url": "/cloudyhome/static/media/reddit_logo.fd5a6f3b.png"
   },
   {
     "revision": "cd606974b5ede2e602e0f038a3b5cf16",
