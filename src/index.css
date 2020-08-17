@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding:0;
+  background: rgb(234,250,241);
+  background: linear-gradient(90deg, rgba(234,250,241,1) 0%, rgba(250,215,160,1) 100%);	
+  color:#808B96;
+  font-family: 'Rubik', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
