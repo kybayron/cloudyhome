@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebb873da1290aefb8b3be623b45316bf",
+    "revision": "c503248fbdaa7a2e46fd54dcca51e8cd",
     "url": "/cloudyhome/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cloudyhome/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "3637bea560f350d85fba",
-    "url": "/cloudyhome/static/css/main.c2a2f49a.chunk.css"
+    "revision": "4deb27e604b9f7d19cb1",
+    "url": "/cloudyhome/static/css/main.c802a507.chunk.css"
   },
   {
     "revision": "d452f3e72cb116652d4e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cloudyhome/static/js/2.99111540.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3637bea560f350d85fba",
-    "url": "/cloudyhome/static/js/main.9870eee5.chunk.js"
+    "revision": "4deb27e604b9f7d19cb1",
+    "url": "/cloudyhome/static/js/main.daa72664.chunk.js"
   },
   {
     "revision": "a835a11a027db0f29aa6",
