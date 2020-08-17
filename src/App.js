@@ -12,7 +12,7 @@ class App extends Component {
             <img src={icon} alt='' className='fl pa2'/>
             <h1 className='pa3'> Cloudy Home</h1>
           </div>
-          <div className='tc bg-near-white bw2 mh7 br3 shadow-4 mb4'>
+          <div className='tc bg-near-white bw2 mh5 br3 shadow-4 mb4 w-80 center pa3'>
             <CardList links={search} name='Search Engines' />
             <CardList links={social} name='Social Media' />
            </div>

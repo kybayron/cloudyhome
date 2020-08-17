@@ -5,7 +5,7 @@ const CardList = ({ links,name }) => {
 
 	return(
 		<div>
-		<h1 className="tc f3 pa3 underline">{name} </h1> 
+		<h1 className="tc f3  underline">{name} </h1> 
 		<div>
 			{
 				

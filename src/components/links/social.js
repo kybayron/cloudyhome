@@ -15,6 +15,11 @@ const social = [
 		location: './links/images/instagram_logo.png'
 	},
 	{
+		name: 'Reddit',
+		url: 'https://www.reddit.com',
+		location: './links/images/reddit_logo.png'
+	},
+	{
 		name: 'Pinterest',
 		url: 'https://www.pinterest.com',
 		location: './links/images/pinterest_logo.png'
